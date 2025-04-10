@@ -51,6 +51,7 @@ action: true
     "***fett & krusiv***"
     "Text\
     Absatz"
+    "       Als Code formatieren"
 
 #### Ergebnis
 *krusiv*\
@@ -58,3 +59,7 @@ action: true
 ***fett & krusiv***\
 Text\
 Absatz
+
+        Als Code formatieren
+
+
