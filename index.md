@@ -22,10 +22,10 @@ action: true
 
 # Tricks zum erstellen/bearbeiten der Webseite
 
-Erstelle eine Datei im Format .md.
+## md (Markdown)
 
-## Überschriften
-### Code
+### Überschriften
+#### Code
 
     # Überschrift
     ## kleinere Überschrift
@@ -34,7 +34,7 @@ Erstelle eine Datei im Format .md.
     ##### viel kleinere Überschrift
     ###### kleinste Überschrift
 
-### Ergebnis
+#### Ergebnis
 
 # Überschrift
 ## kleinere Überschrift
@@ -43,8 +43,8 @@ Erstelle eine Datei im Format .md.
 ##### viel kleinere Überschrift
 ###### kleinste Überschrift
 
-## Formationen
-### Code
+### Formationen
+#### Code
 
     "*krusiv*"
     "**fett**"
@@ -52,7 +52,7 @@ Erstelle eine Datei im Format .md.
     "Text\
     Absatz"
 
-### Ergebnis
+#### Ergebnis
 *krusiv*\
 **fett**\
 ***fett & krusiv***\
