@@ -63,3 +63,15 @@ Absatz
         Als Code formatieren
 
 
+### Ausblenden (Funktioniert genau so auch mit HTML)
+#### Code
+
+        <!--
+        Als Code ausgeblendet
+        -->
+
+#### Ergebnis
+
+<!--
+Als Code ausgeblendet
+-->
