@@ -9,6 +9,7 @@ action: true
 
 # Menü
 [Startseite](/)
+[Suchmaschiene](/search)
 
 # Über uns
 
