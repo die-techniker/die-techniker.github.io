@@ -7,8 +7,9 @@ excerpt: ""
 action: true
 ---
 <script>
-  alert("Herzlich Wilkommen bei der Suchmaschiene Technik, Es können nicht alle sachen stimmen.")/>
-</script> alert("Herzlich Wilkommen bei der Suchmaschiene Technik, Es können nicht alle sachen stimmen.")/>
+  alert("Herzlich Wilkommen bei der Suchmaschiene Technik, Es können nicht alle sachen stimmen.")
+  alert("Herzlich Wilkommen bei der Suchmaschiene Technik, Es können nicht alle sachen stimmen.")
+    </script>
   
 # [SUCHMASCHIENE TECHNIK](/search)
 # Menü
