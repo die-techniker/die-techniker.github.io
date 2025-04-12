@@ -13,3 +13,6 @@ action: true
 
 # Suchergebnisse
 - [Frames und Videoplayer](/search/frame)
+
+# Bei uns können vieleicht auch sachen nicht Stimmen.
+wenn dann macht ein [Fehlerbericht](https://github.com/die-techniker/die-techniker.github.io/issues/new/choose).
