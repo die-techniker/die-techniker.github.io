@@ -25,7 +25,8 @@ Es bedient sie: [Viktor Chiarcos](https://github.com/viktor-chiarcos)
 
 ### So Benutzt man Frames
 
-    <iframe src="https://google.de" width="900" height="400" name="GOOGLE" title="Das Google"/>
+    <iframe src="https://wiki.selfhtml.org/wiki/Startseite" width="900" height="400" name="SELFHTML" title="Das Selfhtml Wiki"/>
 
 
-<iframe src="https://google.de" width="900" height="400" name="GOOGLE" title="Das Google"/>
+
+<iframe src="https://wiki.selfhtml.org/wiki/Startseite" width="900" height="400" name="SELFHTML" title="Das Selfhtml Wiki"/>
