@@ -6,7 +6,7 @@ title: "Suchmaschiene"
 excerpt: ""
 action: true
 ---
-# [SUCHMASCHIENE](/search)
+# [SUCHMASCHIENE TECHNIK](/search)
 # Menü
 [Startseite](/)\
 [Suchmaschiene](/search)
