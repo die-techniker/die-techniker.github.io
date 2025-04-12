@@ -6,6 +6,7 @@ title: "Suchmaschiene"
 excerpt: ""
 action: true
 ---
+<script alert("Herzlich Wilkommen bei der Suchmaschiene Technik, Es können nicht alle sachen stimmen.")/>
 # [SUCHMASCHIENE TECHNIK](/search)
 # Menü
 [Startseite](/)\
