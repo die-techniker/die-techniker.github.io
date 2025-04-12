@@ -12,4 +12,4 @@ action: true
 [Suchmaschiene](/search)
 
 # Suchergebnisse
-- [Frames und Videoplayer](/search/frames)
+- [Frames und Videoplayer](/search/frame)
