@@ -25,5 +25,7 @@ Es bedient sie: [Viktor Chiarcos](https://github.com/viktor-chiarcos)
 
 ### So Benutzt man Frames
 
-    Es tut uns Leid,
-    Wir konnten die Lösung noch nicht eintragen.
+    <iframe src="https://google.de" width="900" height="400" name="GOOGLE" title="Das Google"/>
+
+
+<iframe src="https://google.de" width="900" height="400" name="GOOGLE" title="Das Google"/>
