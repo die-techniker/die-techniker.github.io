@@ -6,7 +6,7 @@ title: "Wir sind die Techniker"
 excerpt: ""
 action: true
 ---
-<script
+<script>
     alert("Wir sind die Techniker!")
     alert('Schaut euch gerne Unsere Webseite an.')
         </script>
