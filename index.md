@@ -76,3 +76,30 @@ Absatz
 <!--
 Als Code ausgeblendet
 -->
+
+## html (HTML)
+
+### html schreiben
+#### Code
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+        <meta charset="UTF-8">
+        </head>
+        <body>
+            Dein Text<br/>
+            Dein Text
+        </body>
+        </html>
+# Ergebnis
+
+<html>
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    Dein Text<br/>
+    Dein Text
+</body>
+</html>
