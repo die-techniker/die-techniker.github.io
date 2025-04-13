@@ -12,9 +12,7 @@ action: true
 </script>
   
 # [SUCHMASCHIENE TECHNIK](/search)
-# Menü
-[Startseite](/)\
-[Suchmaschiene](/search)
+<iframe width="560" height="315" src="/menu.html" ></iframe>
 
 # Suchergebnisse
 - [Frames und Videoplayer](/search/frame)
