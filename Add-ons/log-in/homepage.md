@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /deutschland-login/anmelden/192.168.178.21/68526
+permalink: /deutschland-login/anmelden/192.168.178.21/
 
 title: "Germany Login"
 excerpt: ""
