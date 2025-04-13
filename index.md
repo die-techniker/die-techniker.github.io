@@ -11,11 +11,6 @@ action: true
     alert('Schaut euch gerne Unsere Webseite an.')
         </script>
 
-# Menü
-[Startseite](/)\
-[Suchmaschiene](/search)
-
-
 # Über uns
 
 1. Wir sind die Techniker
