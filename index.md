@@ -9,7 +9,7 @@ action: true
 
 <iframe> 
     src="menu.html" title="Menüleiste" frameborder="0">
-    <a href="https://viktor-chiarcos.github.io/tech/organisation">Beitreten
+    <a href="https://viktor-chiarcos.github.io/tech/organisation">Beitreten</a>
 </iframe>
 
 
