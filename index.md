@@ -7,9 +7,10 @@ excerpt: ""
 action: true
 ---
 
-<iframe src="menu.html" title="Menüleiste" frameborder="0"> </iframe>
-<iframe src="https://viktor-chiarcos.github.io/tech/organisation" width="900" height="400" name="VIKTOR CHIARCOS" title="Bei uns beitreten">
-</iframe><br>
+<iframe> 
+    src="menu.html" title="Menüleiste" frameborder="0">
+    <a href="https://viktor-chiarcos.github.io/tech/organisation">Beitreten
+</iframe>
 
 
 <!--iframe width="560" height="315" src="menu.html" title="Menüleiste" frameborder="0"> </iframe-->
@@ -97,7 +98,7 @@ Als Code ausgeblendet
             Dein Text
         </body>
         </html>
-# Ergebnis
+#### Ergebnis
 
 <html>
 <head>
@@ -108,3 +109,14 @@ Als Code ausgeblendet
     Dein Text
 </body>
 </html>
+
+# Unterstützung
+---------------
+# A
+## Apple
+
+Kaufen sie **lieber** kein Gerät von **Apple**!\
+Bei Apple läuft die **Garantie** nur **2 Jahre**!\
+Man kann eine **Apple Watch** nur mit den **neuen Geräten** einrichten!\
+Es währe besser wenn die meißten **Android** *(siehe unten)* kaufen würden!\
+Klicken sie [hier](https://www.google.com/search?client=firefox-b-d&q=Android) um Android Geräte zu suchen.
