@@ -116,4 +116,33 @@ Kaufen sie **lieber** kein Gerät von **Apple**!\
 Bei Apple läuft die **Garantie** nur **2 Jahre**!\
 Man kann eine **Apple Watch** nur mit den **neuen Geräten** einrichten!\
 Es währe besser wenn die meißten **Android** *(siehe unten)* kaufen würden!\
-Klicken sie [hier](https://www.google.com/search?client=firefox-b-d&q=Android) um Android Geräte zu suchen.
+Klicken sie [hier](https://www.google.com/search?client=firefox-b-d&q=Android) um Android Geräte zu suchen
+
+# B
+# C
+# D
+# E
+# F
+## Formatvorlgagen
+- [Installation Version 1.1](https://github.com/die-techniker/die-techniker-website-v1.1/releases/tag/download)
+- [Anleitung Installation Version 1.1](https://github.com/die-techniker/die-techniker-website-v1.1/blob/main/README.md)
+# G
+# H
+# I
+# J
+# K
+# L
+# M
+# N
+# O
+# P
+# Q
+# R
+# S
+# T
+# U
+# V
+# W
+# X
+# Y
+# Z
