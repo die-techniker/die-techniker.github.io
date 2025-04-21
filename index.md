@@ -7,9 +7,7 @@ excerpt: ""
 action: true
 ---
 
-<iframe> 
-    src="/menu.html" title="Menüleiste" frameborder="0">
-</iframe>
+<iframe src="/menu.html" title="Menüleiste" frameborder="0"></iframe>
 
 
 <!--iframe width="560" height="315" src="menu.html" title="Menüleiste" frameborder="0"> </iframe-->
