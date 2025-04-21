@@ -126,6 +126,8 @@ Klicken sie [hier](https://www.google.com/search?client=firefox-b-d&q=Android) u
 ## Formatvorlgagen
 - [Installation Version 1.1](https://github.com/die-techniker/die-techniker-website-v1.1/releases/tag/download)
 - [Anleitung Installation Version 1.1](https://github.com/die-techniker/die-techniker-website-v1.1/blob/main/README.md)
+
+
 # G
 # H
 # I
