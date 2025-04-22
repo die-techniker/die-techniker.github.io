@@ -9,16 +9,16 @@ action: true
 -
 # Text
 ------------------------------------------------------------
-Hallo Welt!
+
 
 ------------------------------------------------------------
 # Über die Webseite
-# Formatforlage: Die Techiker Webseite Version 1.1
+# Vorschau: Die Techiker Webseite Version 1.1
 
-**+ Workflow**\
 **+ Startseite**\
 **+ README**
 
 - Sprache: Deutsch
-- Erstellt von: Die Techniker, jekjll
+- Erstellt von: Die Techniker
+- Aufbau über: yekjll
 - Commit über: GitHub
