@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /
+permalink: /formatvorlage/1.1/
 
 title: "GitHub Webseite"
 excerpt: "Formatvorlage: Die Techniker Webseite Version 1.1"
