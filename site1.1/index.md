@@ -13,12 +13,6 @@ action: true
 
 ------------------------------------------------------------
 # Über die Webseite
-# Vorschau: Die Techiker Webseite Version 1.1
+# Formatvorlage: Vorschau Webseite Version 1.1
 
-**+ Startseite**\
-**+ README**
-
-- Sprache: Deutsch
-- Erstellt von: Die Techniker
-- Aufbau über: yekjll
-- Commit über: GitHub
+[Downloaden](https://github.com/die-techniker/die-techniker-website-v1.1/releases/tag/download)
